@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/523.3c876c8b.chunk.css","mappings":"AAAA,+BAGI,cADA,kBADA,UAEA","sources":["styles/project_pages.module.scss"],"sourcesContent":[".titleFit {\n    width: 25em;\n    text-align: center;\n    margin: 0 auto;\n}"],"names":[],"sourceRoot":""}
